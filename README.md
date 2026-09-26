@@ -13,4 +13,4 @@ Soon, I'll start exploring LLMs, Generative AI & related technologies
 
 ## Tech I'm Learning / Working With 🧑‍💻
 
-Python C++ PyTorch NumPy Pandas SQL Git Linux FastAPI Next.js
+Python, PyTorch, NumPy, Pandas, SQL, Git, Linux, C++, FastAPI, Next.js
