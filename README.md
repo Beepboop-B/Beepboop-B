@@ -11,6 +11,7 @@ Currently focused on 👾 :
 
 Soon, I'll start exploring LLMs, Generative AI & related technologies
 
-## Tech I'm Learning / Working With 🧑‍💻
+### Tech I'm Learning / Working With 🧑‍💻
 
-Python, PyTorch, NumPy, Pandas, SQL, Git, Linux, C++, FastAPI, Next.js
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,numpy,pandas,postgresql,git,linux,cpp,fastapi,nextjs&perline=5)](https://skillicons.dev)
+
