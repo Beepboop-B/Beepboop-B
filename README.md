@@ -30,3 +30,5 @@ Soon, I'll start exploring LLMs, Generative AI & related technologies
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" height="24">
 </p>
 
+
+*NOTE: I tend to only commit my fully developed projects from my local git to github , hence such low commits , but we have changed that since my September orchestrate 2026
