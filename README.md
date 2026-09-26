@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello! 👋
 
-<!--
-**Beepboop-B/Beepboop-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate exploring the world of AI/ML and software development.
 
-Here are some ideas to get you started:
+Currently focused on 👾 :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Machine Learning & Deep Learning
+* Python, PyTorch & NumPy
+* Data Structures & Algorithms
+* Building practical AI-powered projects
+
+Soon, I'll start exploring LLMs, Generative AI & related technologies
+
+## Tech I'm Learning / Working With 🧑‍💻
+
+Python C++ PyTorch NumPy Pandas SQL Git Linux FastAPI Next.js
