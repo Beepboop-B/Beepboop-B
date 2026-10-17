@@ -31,4 +31,4 @@ Soon, I'll start exploring LLMs, Generative AI & related technologies
 </p>
 
 
-*NOTE: I tend to only commit my fully developed projects from my local git to github , hence such low commits , but we have changed that since my September orchestrate 2026
+*NOTE: I tend to only commit my fully developed projects from my local git to github , hence such low commits .
